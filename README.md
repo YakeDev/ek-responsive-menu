@@ -1,4 +1,3 @@
-````md
 # Responsive Menu
 
 A simple responsive menu toggle component for web applications.
@@ -10,6 +9,7 @@ Install the package via NPM:
 ```bash
 npm install responsive-menu
 ```
+
 ````
 
 ## Usage
@@ -88,3 +88,4 @@ This project is licensed under the ISC License.
 ```
 
 ```
+````
