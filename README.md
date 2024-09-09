@@ -10,8 +10,6 @@ Install the package via NPM:
 npm install responsive-menu
 ```
 
-````
-
 ## Usage
 
 ### Importing the Module
@@ -88,4 +86,7 @@ This project is licensed under the ISC License.
 ```
 
 ```
-````
+
+```
+
+```
