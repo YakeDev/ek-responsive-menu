@@ -1,24 +1,3 @@
-Ajoutons un fichier `.npmignore` et un fichier `README.md` pour finaliser le package avant la publication sur NPM.
-
-### 1. Crée le fichier `.npmignore`
-
-Le fichier `.npmignore` fonctionne de manière similaire à un `.gitignore`, il exclut certains fichiers du package que tu ne souhaites pas publier. Voici un exemple de fichier `.npmignore` :
-
-```bash
-# .npmignore
-node_modules/
-tests/
-index.html
-styles.css
-*.log
-```
-
-Cela empêche le fichier `index.html` et `styles.css`, qui ne sont pas nécessaires pour le package NPM, d'être inclus lors de la publication.
-
-### 2. Crée le fichier `README.md`
-
-Le fichier `README.md` est essentiel pour expliquer aux utilisateurs comment installer et utiliser ton package. Voici un exemple pour ton projet de menu responsive :
-
 ````md
 # Responsive Menu
 
