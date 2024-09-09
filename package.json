@@ -1,0 +1,27 @@
+{
+  "name": "ek-responsive-menu",
+  "version": "1.0.0",
+  "description": "A simple responsive menu toggle component.",
+  "main": "menu.js",
+  "scripts": {
+    "test": "open index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YakeDev/ek-responsive-menu.git"
+  },
+  "keywords": [
+    "Menu",
+    "Responsive",
+    "toggle",
+    "menu",
+    "mobile",
+    "menu"
+  ],
+  "author": "YakeDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YakeDev/ek-responsive-menu/issues"
+  },
+  "homepage": "https://github.com/YakeDev/ek-responsive-menu#readme"
+}
